@@ -1,0 +1,11 @@
+.vscode/
+docs/
+node_modules/
+gallery/
+favs/
+
+*/*.html
+keys.json
+*.groovy
+src/favs-sax.js
+src/rss.js

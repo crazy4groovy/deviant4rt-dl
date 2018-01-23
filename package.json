@@ -1,0 +1,25 @@
+{
+  "name": "deviants",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "gallery": "node src/gallery.js",
+    "favs": "node src/favs.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "damn": "^0.2.0",
+    "feedme": "^1.1.1",
+    "get-stream": "^3.0.0",
+    "lodash": "^4.17.4",
+    "mkdirp": "^0.5.1",
+    "request": "^2.83.0",
+    "request-promise-native": "^1.0.5",
+    "sanitize-filename": "^1.6.1",
+    "sax": "^1.2.4"
+  }
+}
